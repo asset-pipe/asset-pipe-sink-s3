@@ -28,10 +28,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "readable-stream": "2.1.4",
+    "readable-stream": "2.2.2",
     "lodash.isobject": "3.0.2",
     "lodash.isstring": "4.0.1",
-    "aws-sdk": "2.4.0"
+    "aws-sdk": "2.7.5"
   },
   "devDependencies": {
     "tap": "8.0.1"
