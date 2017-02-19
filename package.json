@@ -34,7 +34,7 @@
     "aws-sdk": "2.14.0"
   },
   "devDependencies": {
-    "tap": "10.1.1"
+    "tap": "10.2.0"
   },
   "scripts": {
     "test": "tap test/*.js"
