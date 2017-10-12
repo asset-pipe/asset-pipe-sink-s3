@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "dependencies": {
-    "readable-stream": "2.3.0",
+    "readable-stream": "2.3.3",
     "lodash.isobject": "3.0.2",
     "lodash.isstring": "4.0.1",
-    "aws-sdk": "2.59.0"
+    "aws-sdk": "2.132.0"
   },
   "devDependencies": {
-    "tap": "10.6.0"
+    "tap": "10.7.2"
   },
   "scripts": {
     "test": "tap test/*.js"
