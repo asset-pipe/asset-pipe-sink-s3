@@ -31,7 +31,7 @@
         "readable-stream": "^3.1.0",
         "lodash.isobject": "^3.0.2",
         "lodash.isstring": "^4.0.1",
-        "aws-sdk": "^2.212.1"
+        "aws-sdk": "^2.627.0"
     },
     "devDependencies": {
         "tap": "^12.1.1"
